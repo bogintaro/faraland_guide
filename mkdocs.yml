@@ -1,0 +1,9 @@
+site_name: Faraland ガイド
+site_description: Faraland Japanse Guide ファラランド日本語ガイド
+site_author: bogintaro
+copyright: Copyright © 2023 bogintaro
+extra:
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+
